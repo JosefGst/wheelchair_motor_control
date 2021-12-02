@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/josef/catkin_ws/devel/include/**",
+        "/home/josef/ros_ws/devel/include/**",
+        "/opt/ros/kinetic/include/**",
+        "/home/josef/ros_ws/src/mastering_ros_robot_description_pkg/include/**",
+        "/home/josef/catkin_ws/src/Autonomous_Mobile_Robot/mobile_robot_autonomous_navigation/include/**",
+        "/home/josef/ros_ws/src/ros_essentials_cpp/include/**",
+        "/home/josef/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/josef/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/josef/catkin_ws/src/turtlebot3/turtlebot3_slam/include/**",
+        "/home/josef/catkin_ws/src/wheelchair_motor_control/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
